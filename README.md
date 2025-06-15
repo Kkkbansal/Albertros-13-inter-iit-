@@ -3,8 +3,7 @@ This project presents an energy-efficient HVAC solution designed for Inter IIT T
 
  **Included Files**
 
-system_model.slx: Simulink model demonstrating the HVAC system simulation.
-
-demo_video.mp4: A demonstration video explaining system behavior and results.
+*system_model.slx*: Simulink model demonstrating the HVAC system simulation.//
+*demo_video.mp4*: A demonstration video explaining system behavior and results.
 
 The simulation showcases the dynamic temperature control strategy and validates performance through heat transfer, efficiency, and cost analysis.
